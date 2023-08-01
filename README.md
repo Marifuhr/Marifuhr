@@ -25,4 +25,8 @@
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-HOLA
+HOLA,
+Soy Mari, Full Stack Developer con formacón como Diseñadora web.
+Cuento con experiencia trabajando en Node.js, React, Redux, SQL entreotras tecnologías del sector.
+Cuento con habilidades para el desarrollo web, las metodologías ágiles,definición de modelos en bases de datos, administración en portalesweb, implementación y soporte.
+Me apasiona el mundo tecnológico y la innovación constante. Siempre dispuesta a alimentar de nuevos conocimientos, soy muy curiosa, vive en mí la magia de éste magnífico mundo TECH!!!
